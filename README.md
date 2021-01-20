@@ -29,3 +29,4 @@ In another terminal:
 ```
 rocker --nvidia --x11 --network host osrf/ros:kinetic-desktop-full rviz
 ```
+# docker4realsenseslam
